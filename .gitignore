@@ -1,0 +1,7 @@
+/node_modules/
+/babel/node_modules/*
+/babel/step-1/node_modules/*
+/babel/step-2/node_modules/*
+/babel/step-3/node_modules/*
+/babel/step-4/node_modules/*
+/babel/step-5/node_modules/*

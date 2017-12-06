@@ -1,0 +1,4 @@
+- 没有.babelrc 不会编译
+- 要有presets npm init 
+- 安装babel-core  babel-preset-env
+- 编译整个目录 bable src --out-dir(-d) lib
