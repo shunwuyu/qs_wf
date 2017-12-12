@@ -10,3 +10,5 @@
 /gulp/step-3/node_modules/*
 /gulp/step-4/node_modules/*
 /gulp/step-5/node_modules/*
+/browserify/node_modules/*
+/demos/gulp-canvas-moon/node_modules/*
