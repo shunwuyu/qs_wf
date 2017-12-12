@@ -5,3 +5,9 @@
 /babel/step-3/node_modules/*
 /babel/step-4/node_modules/*
 /babel/step-5/node_modules/*
+/npm_script/lesson1/node_modules/*
+/npm_script/lesson2/node_modules/*
+/npm_script/node_modules/*
+/npm_script/hello-npm-script/node_modules/*
+/demos/gulp-canvas-moon/node_modules/*
+/browserify/node_modules/*

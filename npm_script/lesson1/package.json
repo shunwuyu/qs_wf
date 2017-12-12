@@ -1,0 +1,16 @@
+{
+  "name": "lesson1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yushunwu <shunwu2001@163.com> (https://github.com/shunwuyu)",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
+}

@@ -1,0 +1,23 @@
+.no-space-after-colon {
+  /* display:block; */
+  display: block;
+}
+
+.no-semicolon {
+  /* position: relative */
+  position: relative;
+}
+
+.invalid-hex {
+  /* color: #FFF00G; */
+  color: #FFF00E;
+}
+
+.duplicate-rule {
+  display: block;
+  /* transition: opacity .2s; */
+  color: #444;
+  background-color: #eee;
+  /* transition: background-color .4s; */
+  transition: opacity .2s, background-color .4s;
+}
