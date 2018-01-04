@@ -1,0 +1,20 @@
+{
+  "name": "live-reload",
+  "version": "0.1.0",
+  "description": "刷新页面的操作就变成了重复低效的操作   状态丢失怎么办 hot reload",
+  "main": "index.js",
+  "scripts": {
+    "client": "npm-run-all --parallel client:*",
+    "client:reload-server": "livereload client/",
+    "client:static-server": "http-server client/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yushunwu <shunwu2001@163.com> (https://shunwuyu.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0",
+    "livereload": "^0.6.3",
+    "npm-run-all": "^4.1.2"
+  }
+}
