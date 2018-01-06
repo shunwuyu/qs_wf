@@ -1,8 +1,22 @@
 <template>
-  <div>2222dddcc</div>
+  <div>
+    <input v-model="num"/>
+    <button @click="add">+</button>
+  </div>
 </template>
 <script>
-export default {}  
+export default {
+  data () {
+    return {
+      num: 1
+    }
+  },
+  methods: {
+    add() {
+      this.num++;
+    }
+  }
+}  
 </script>
 <style>
 
